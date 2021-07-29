@@ -6,6 +6,9 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
+/*
+* This is login class
+ */
 public class Login {
 
 	public JFrame frame;
