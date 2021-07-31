@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.sql.*;
 
-
+//Scoreboard code where all scores data in inserted into database
 public class SB {
 
 	public JFrame frame;
