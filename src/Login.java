@@ -86,6 +86,7 @@ public class Login {
 		frame.getContentPane().add(lblMatchSearch);
 
 		JButton btnClick = new JButton("Search Here");
+		//calling an action event to prform action
 		btnClick.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				frame.dispose();
