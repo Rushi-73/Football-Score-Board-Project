@@ -377,7 +377,7 @@ public class SB {
 		del.setBounds(133, 373, 85, 21);
 		frame.getContentPane().add(del);
 	}
-	public void showimg()
+	public void showimg() //displaying image on frame
 	{
 		ImageIcon icon=new ImageIcon("C:/Users/Rushikesh/Downloads/download.jpg");
 		Image img=icon.getImage();
