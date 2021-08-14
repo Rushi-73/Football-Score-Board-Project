@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+//this class is for user search
 public class UserSearch {
 
 	public JFrame frame;
