@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-
+//this class is for admin search
 public class Search {
 
 	public JFrame frame;
