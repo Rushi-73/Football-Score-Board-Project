@@ -5,6 +5,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.*;
 
+//this class is for user display frame
 public class UserDisp {
 	
 
