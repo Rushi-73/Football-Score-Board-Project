@@ -5,6 +5,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.*;
 
+//this is for display frame
 public class Disp {
 
 	public JFrame frame;
