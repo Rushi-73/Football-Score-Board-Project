@@ -31,6 +31,7 @@ public class UserSearch {
 	 * 
 	 * @wbp.parser.entryPoint
 	 */
+	//constructor
 	public UserSearch() {
 		initialize();
 		showImg();
